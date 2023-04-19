@@ -1,0 +1,1 @@
+The main purpose of this repo is to do code every day and to save that code in this repo.
